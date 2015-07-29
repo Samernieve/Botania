@@ -1,22 +1,22 @@
 # MISC
 itemGroup.Botania=Botania
-generator.botania-skyblock=Garden of Glass
-generator.botania-skyblock.info=Not recommended for botania newcomers
+generator.botania-skyblock=Jardín de Cristal
+generator.botania-skyblock.info=No recomendado para novatos de Botania.
 
 # Something that is not localized, translators, do NOT change this line.
 botaniamisc.noloc=botaniamisc.noloc
 
-botaniamisc.nextPage=Next Page
-botaniamisc.prevPage=Previous Page
-botaniamisc.back=Back
-botaniamisc.craftingContainer=Returns on Crafting
-botaniamisc.shapeless=Shapeless Recipe
-botaniamisc.oredict=Ore Dictionary Recipe
-botaniamisc.statusUnknown=Unknown Status
-botaniamisc.color=%s Tinted
-botaniamisc.manaUsage=Mana Usage
-botaniamisc.shiftToRead=Shift-right click to read more
-botaniamisc.clickToRecipe=Shift click to see recipe
+botaniamisc.nextPage=Página Siguiente
+botaniamisc.prevPage=Página Anterior
+botaniamisc.back=Atrás
+botaniamisc.craftingContainer=Se devuelve después de la fabricación
+botaniamisc.shapeless=Receta sin forma fija
+botaniamisc.oredict=Receta del Diccionario de Menas
+botaniamisc.statusUnknown=Estado Desconocido
+botaniamisc.color=%s Tintado
+botaniamisc.manaUsage=Uso de Maná
+botaniamisc.shiftToRead=Shift + clic derecho para leer más
+botaniamisc.clickToRecipe=Shift + clic para ver la receta
 botaniamisc.clickToIndex=Shift click for index
 botaniamisc.flareColor=%s Rounds
 botaniamisc.outputtingPower=Sparing Mana to Items
